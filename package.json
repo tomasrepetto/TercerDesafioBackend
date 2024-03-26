@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "desafioentregable_3",
+  "version": "1.0.0",
+  "main": "fileSystem.js",
+  "scripts": {
+    "dev":"nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.19.2"
+  }
+}
